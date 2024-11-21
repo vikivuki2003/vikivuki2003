@@ -7,10 +7,10 @@
   - Python
 
 - **Фреймворки и библиотеки**:  
-  - Разработка: Django, Aiogram
+  - Разработка: Django / Django Rest Framework / Aiogram / JavaScript
   - Анализ данных: Pandas
   - Веб-технологии: HTML/CSS
-  - 
+    
 - **Базы данных**:
   - PostgreSQL
   - MySQL
@@ -20,6 +20,9 @@
   - Docker
   - Git & GitHub
   - Redis
+  - Celery
+  - Django Htmx
+  - Nginx
 
 🌱 Мои цели
 
@@ -29,8 +32,8 @@
 
 ## 📈 Мои проекты
 
-- [Мой персональный финансовый трекер](https://github.com/vikivuki2003/my_personal_finanse_tracker)
 - [Интернет-магазин](https://github.com/vikivuki2003/web_site_django)
+- [Мой персональный финансовый трекер](https://github.com/vikivuki2003/my_personal_finanse_tracker)
 - [Телеграм-бот кафе](https://github.com/vikivuki2003/my_telegram_bot)
 - [Сайт для создания и хранения заметок](https://github.com/vikivuki2003/notes_django_project)
 
