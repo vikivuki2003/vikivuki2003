@@ -34,18 +34,12 @@
 
 ## **📈 Мои проекты**
 
-- [Интернет-магазин](https://github.com/vikivuki2003/web_site_django)
-- [Мой персональный финансовый трекер](https://github.com/vikivuki2003/my_personal_finanse_tracker)
-- [Телеграм-бот кафе](https://github.com/vikivuki2003/my_telegram_bot)
-- [Сайт для создания и хранения заметок](https://github.com/vikivuki2003/notes_django_project)
+- [Интернет-магазин](https://github.com/vikivuki2003/web_site_django) - Полнофункциональный интернет-магазин с поддержкой различных платежных систем и системой управления товарами.
+- [Мой персональный финансовый трекер](https://github.com/vikivuki2003/my_personal_finanse_tracker) - Приложение для отслеживания доходов и расходов с графиками и аналитикой для управления личными финансами.
+- [Телеграм-бот кафе](https://github.com/vikivuki2003/my_telegram_bot) - Бот для автоматизации заказов в кафе, предоставляющий меню и возможность оформления заказов через Telegram.
+- [Сайт для создания и хранения заметок](https://github.com/vikivuki2003/notes_django_project) - Веб-приложение для создания, редактирования и хранения заметок с возможностью их организации по категориям.
 
 ## **📫 Как со мной связаться**
-<a href="https://www.linkedin.com/in/viktoriiadiukina">
-    <img src="images/github-icon.png" alt="LinkedIn" width="100"/>
-</a>
-[![LinkedIn](images/github-icon.png)](https://www.linkedin.com/in/viktoriiadiukina)
-[![Telegram](images/github-icon.png)](https://www.linkedin.com/in/viktoriiadiukina)
-[![Twitter](images/twitter-icon.png)](https://twitter.com/ваш_профиль)
 
 - [LinkedIn](https://www.linkedin.com/in/viktoriiadiukina/)
 - [Email](viki_dyukina@mail.ru)
