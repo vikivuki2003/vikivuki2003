@@ -40,6 +40,9 @@
 - [Сайт для создания и хранения заметок](https://github.com/vikivuki2003/notes_django_project)
 
 ## **📫 Как со мной связаться**
+[![LinkedIn](linkedin_logo_icon_170234.png)]([https://www.linkedin.com/in/ваш_профиль](https://www.linkedin.com/in/viktoriiadiukina/)
+[![GitHub](images/github-icon.png)](https://github.com/ваш_профиль)
+[![Twitter](images/twitter-icon.png)](https://twitter.com/ваш_профиль)
 
 - [LinkedIn](https://www.linkedin.com/in/viktoriiadiukina/)
 - [Email](viki_dyukina@mail.ru)
