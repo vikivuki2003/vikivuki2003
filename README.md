@@ -10,8 +10,23 @@
 
 ## **🚀 Технологический стек:**
 🛠️ Инструменты и технологии
-Python Django DRF PostgreSQL HTML CSS JavaScript Bootstrap Docker Git Nginx Celery Redis
-https://camo.githubusercontent.com/3e2919dff619d39b7b9c0593f469758165704d8b4b7a97235ddaef764ea3bcd5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465
+![image](https://github.com/user-attachments/assets/8f833bb7-9639-4abb-91eb-7c56f07f40e2) ![image](https://github.com/user-attachments/assets/8f1260b4-950f-48b6-a455-d47211dd1e83) ![image](https://github.com/user-attachments/assets/77efaf7c-b74e-4a8e-9697-b95007f21021) ![image](https://github.com/user-attachments/assets/70c0cb48-6448-4d99-b21f-a23b75d84ed7) ![image](https://github.com/user-attachments/assets/94a7a842-ca54-49fc-a504-877e4353bede) ![image](https://github.com/user-attachments/assets/4c4ef436-d448-4413-a724-432d895301ca) ![image](https://github.com/user-attachments/assets/a52b36dd-137a-4c04-9fd0-c8fb157a3bc0) ![image](https://github.com/user-attachments/assets/332a422b-f7c7-458b-96b6-030c2c3bda50) ![image](https://github.com/user-attachments/assets/5ceae72d-ac3a-403f-b760-ea372560d434) ![image](https://github.com/user-attachments/assets/4d3db876-d869-40b9-a873-065f33d0bf46) ![image](https://github.com/user-attachments/assets/e18d5f83-4a55-41a3-89f2-4dcfa92f3556) ![image](https://github.com/user-attachments/assets/8cf5898e-8af7-437b-acbf-cba4146fae13) ![image](https://github.com/user-attachments/assets/02ef4f08-504e-4bcc-ad52-c4e6a07a7c9b) ![image](https://github.com/user-attachments/assets/e370e80e-32b8-4444-a9d5-7d88a4fd1e79) ![image](https://github.com/user-attachments/assets/50365ab4-2614-4f49-b547-e07425a84032) ![image](https://github.com/user-attachments/assets/80661eaf-1277-49c1-9105-246008b22599)
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## **🌱 Мои цели**
 
 - Освоить современные фреймворки для веб-разработки, такие как React или Vue.js, для создания более интерактивных приложений.
