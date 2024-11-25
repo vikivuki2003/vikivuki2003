@@ -41,10 +41,10 @@
 
 ## **📫 Как со мной связаться**
 <div id="badges" align="center">  
-  <a href="https://www.linkedin.com](https://www.linkedin.com/in/viktoriiadiukina)" target="_blank">  
+  <a href="https://www.linkedin.com/in/viktoriiadiukina" target="_blank">  
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>  
   </a>  
-  <a href="viki_dyukina@mail.ru" target="_blank">  
+  <a href="mailto:viki_dyukina@mail.ru" target="_blank">  
     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>  
   </a> 
   <a href="https://t.me/viktoria_drsi" target="_blank">  
